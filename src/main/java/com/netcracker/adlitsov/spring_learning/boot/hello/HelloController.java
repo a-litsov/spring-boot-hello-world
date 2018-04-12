@@ -1,4 +1,4 @@
-package hello;
+package com.netcracker.adlitsov.spring_learning.boot.hello;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.bind.annotation.RequestMapping;
